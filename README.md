@@ -1,66 +1,59 @@
-# Hi, I'm Julian Christian Simmons 👋
+# Hi, I'm Julian Simmons
 
-🎓 **Software Engineer**  
-💻 Focused on **Java, JavaFX, SQLite, Data Structures**, and building clean, user-centered applications.  
-🚀 Currently building real-world projects and preparing for SE internships.
+CS student at San Jose State University building practical software projects with Java, Python, SQL, and Git.
 
 ---
 
-## 🔧 Tech Stack
-
-**Languages:**  
-- Java • Python • SQL • JavaScript (beginner)
-
-**Frameworks & Tools:**  
-- JavaFX • SQLite (JDBC) • Maven  
-- GitHub • Figma • CSS
-
-**Core CS Skills:**  
-- Data Structures & Algorithms  
-- Graphs, Hash Tables, Dynamic Programming  
-- OOP & MVC Architecture  
-- Database Design
+## Tech Stack
+- **Languages:** Java, Python, SQL, JavaScript (beginner)
+- **Tools/Frameworks:** JavaFX, SQLite, Maven, Git, GitHub, Flask, Figma, CSS
+- **Core Skills:** Data Structures & Algorithms, OOP, MVC Architecture, Database Design, API Integration
 
 ---
 
-## 🌟 Flagship Project
+## 🌟 Featured Projects
 
-### 🎓 **Student Manager App**  
-A JavaFX desktop application for managing student profiles, comments, role preferences, and more — built with Java 21, SQLite, MVC architecture, and clean UI design.
+### 🎓 MR Risk Scout
+A hackathon project that analyzes GitLab merge requests and detects potentially risky changes, generating a risk score with explanations.
 
-🔗 **Repo:** <https://github.com/JCSkies/Student-Manager> 
-📝 Built using Java 21 (Zulu), JavaFX, SQLite, Maven  
-📁 Features: CRUD operations, search, comments, role filtering, persistent storage
+- **Built with:** Python, Flask, GitLab Merge Request API  
+- **Features:**
+  - Webhook handler for real-time MR analysis  
+  - Risk scoring system based on file changes and patterns  
+  - Automated comment output with explanations  
+  - Modular design with separation of concerns  
 
----
+- **What it demonstrates:**  
+  Backend logic, API integration, and event-driven workflows  
 
-## 📚 Current Focus
-
-- Building internship-ready projects  
-- Improving Java backend skills  
-- Practicing UI/UX through JavaFX & Figma  
-- Preparing for technical interviews  
-- Learning real-world software architecture
+🔗 Repo: https://github.com/GitLab-AI-Team/MR-Risk-Scout
 
 ---
 
-## 📫 Connect With Me
+### 🎓 Student Manager App
+A desktop application for managing student profiles using search, filtering, comments, and persistent storage.
 
-- **Email:** <julianchristian.design@gmail.com>  
-- **LinkedIn:** <https://www.linkedin.com/in/julian-simmons-038880318/>  
-- **GitHub:** <https://github.com/JCSkies>
+- **Built with:** Java, JavaFX, SQLite, Maven  
+- **Features:**
+  - CRUD operations for student data  
+  - Search and filtering functionality  
+  - Comment system for notes and tracking  
+  - Persistent storage using SQLite  
+
+- **What it demonstrates:**  
+  Object-oriented design, MVC architecture, database integration, and UI development  
+
+🔗 Repo: https://github.com/JCSkies/Student-Manager
 
 ---
 
-## ✨ Fun Facts
-
-- I love clean, organized UI  
-- I enjoy explaining code and helping others learn  
-- Favorite topics: graphs, recursion, databases
-- Currently exploring JavaFX animation & custom components
-- I'm a huge boba enthusiast and love playing competitive/story-based games
+## Current Focus
+- Building internship-ready software projects  
+- Strengthening backend and database skills  
+- Preparing for software engineering internships and technical interviews  
 
 ---
 
-Thanks for stopping by! 😊  
-I’m always working on something new — check out my latest projects 👇
+## Connect
+- **Email:** julianchristian.design@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/julian-simmons-038880318/
