@@ -1,22 +1,22 @@
 # Hi, I'm Julian Simmons
 
-CS student at San Jose State University building practical software projects with Java, Python, SQL, and Git.
+Software Engineering Student at SJSU building solutions with industry tech
 
 ---
 
 ## Tech Stack
-- **Languages:** Java, Python, SQL, JavaScript (beginner)
-- **Tools/Frameworks:** JavaFX, SQLite, Maven, Git, GitHub, Flask, Figma, CSS
-- **Core Skills:** Data Structures & Algorithms, OOP, MVC Architecture, Database Design, API Integration
+- **Languages:** TypeScript, Java, Python
+- **Tools/Frameworks:** Docker, KrakenD, Git, React Native, PowerShell, Android,
+- **Core Skills:** API Integration, System Design, Database Design, Data Structures & Algorithms, OOP
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
-### 🎓 MR Risk Scout
-A hackathon project that analyzes GitLab merge requests and detects potentially risky changes, generating a risk score with explanations.
+### Voice Navigation TV
+An Amazon Hackathon Fire TV app that uses voice input to navigate shows and adjust the viewing experience.
 
-- **Built with:** Python, Flask, GitLab Merge Request API  
+- **Built using TypeScript/React Native for the frontend, KrakenD/Jellyfin for the backend** 
 - **Features:**
   - Webhook handler for real-time MR analysis  
   - Risk scoring system based on file changes and patterns  
@@ -30,7 +30,7 @@ A hackathon project that analyzes GitLab merge requests and detects potentially 
 
 ---
 
-### 🎓 Student Manager App
+### Student Manager App
 A desktop application for managing student profiles using search, filtering, comments, and persistent storage.
 
 - **Built with:** Java, JavaFX, SQLite, Maven  
