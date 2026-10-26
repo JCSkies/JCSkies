@@ -1,6 +1,6 @@
 # Hi, I'm Julian Simmons
 
-Software Engineering Student at SJSU building solutions with industry tech
+Software Engineering Student at San Jose State University building innovative solutions.
 
 ---
 
@@ -16,21 +16,21 @@ Software Engineering Student at SJSU building solutions with industry tech
 ### Voice Navigation TV
 An Amazon Hackathon Fire TV app that uses voice input to navigate shows and adjust the viewing experience.
 
-- **Built using TypeScript/React Native for the frontend, KrakenD/Jellyfin for the backend** 
+- **Built using TypeScript/React Native for the frontend, KrakenD/Jellyfin for the backend, Codex as the agentic AI.** 
 - **Features:**
-  - Webhook handler for real-time MR analysis  
-  - Risk scoring system based on file changes and patterns  
-  - Automated comment output with explanations  
-  - Modular design with separation of concerns  
+  - Hold select on your Fire TV remote to register voice input
+  - AI detects natural language and parses into an allowlisted voice command
+  - Commands can allow for instant TV show/movie navigation
+  - Viewing settings such as volume, skipping time or to a certain timeframe can be done in an instant.
 
 - **What it demonstrates:**  
-  Backend logic, API integration, and event-driven workflows  
+  AI-enhanced viewing, Agile development, host-target development, team collaboration, system design
 
-🔗 Repo: https://github.com/GitLab-AI-Team/MR-Risk-Scout
+ Repo: https://github.com/AmirWanta/Amazon-Hackathon-Streaming-Service
 
 ---
 
-### Student Manager App
+### Grocery Management System
 A desktop application for managing student profiles using search, filtering, comments, and persistent storage.
 
 - **Built with:** Java, JavaFX, SQLite, Maven  
@@ -43,7 +43,7 @@ A desktop application for managing student profiles using search, filtering, com
 - **What it demonstrates:**  
   Object-oriented design, MVC architecture, database integration, and UI development  
 
-🔗 Repo: https://github.com/JCSkies/Student-Manager
+ Repo: https://github.com/JCSkies/Student-Manager
 
 ---
 
