@@ -13,6 +13,21 @@ Software Engineering Student at San Jose State University building innovative so
 
 ## Featured Projects
 
+### Resume Portfolio (Developed the login authentication component)
+Turn resumes into generated websites you can add to your phone for recruiters to see!
+
+**Built with TypeScript/React Native Expo as the frontend, KrakenD/FastAPI for the backend, with PostgreSQL to store user credentials and other secrets**
+- **Features:**
+  - Account creation and login system.
+  - List containing all generated portfolio websites with the ability to add as a card to Apple/Android Wallet.
+  - Resume uploader to extract PDF text and categorize into skills, projects, and experiences
+  - Static site generator page, where the user may choose a template or generate a website using AI.
+
+**What it demonstrates:**
+Cross-platform authentication, backend service for business logic, security test development, and secret management.
+
+Repo: https://github.com/umarw345-alt/DevOppers/tree/main
+
 ### Voice Navigation TV
 An Amazon Hackathon Fire TV app that uses voice input to navigate shows and adjust the viewing experience.
 
@@ -43,7 +58,7 @@ A desktop application for managing student profiles using search, filtering, com
 - **What it demonstrates:**  
   Object-oriented design, MVC architecture, database integration, and UI development  
 
- Repo: https://github.com/JCSkies/Student-Manager
+ Repo: https://github.com/JCSkies/Grocery_Management_System
 
 ---
 
