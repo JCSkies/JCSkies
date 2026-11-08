@@ -6,7 +6,7 @@ Software Engineering Student at San Jose State University building innovative, u
 
 ## Tech Stack
 - **Languages:** TypeScript, Java, Python
-- **Tools/Frameworks:** Docker, KrakenD, Git, React Native, PowerShell, Android, FastAPI, PostgreSQL, MySQL
+- **Tools/Frameworks:** Docker, KrakenD, Git, React Native, PowerShell, Android, FastAPI, PostgreSQL, MySQL, Node.js, Metro
 - **Core Skills:** API Integration, System Design, Database Design, Data Structures & Algorithms, OOP
 
 ---
