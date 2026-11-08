@@ -1,12 +1,12 @@
-# Hi, I'm Julian Simmons
+# Julian Christian Simmons
 
-Software Engineering Student at San Jose State University building innovative solutions.
+Software Engineering Student at San Jose State University building innovative, useful products.
 
 ---
 
 ## Tech Stack
 - **Languages:** TypeScript, Java, Python
-- **Tools/Frameworks:** Docker, KrakenD, Git, React Native, PowerShell, Android,
+- **Tools/Frameworks:** Docker, KrakenD, Git, React Native, PowerShell, Android, FastAPI, PostgreSQL, MySQL
 - **Core Skills:** API Integration, System Design, Database Design, Data Structures & Algorithms, OOP
 
 ---
